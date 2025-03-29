@@ -19,6 +19,7 @@ I'm a passionate developer with interests in android development and open-source
 ## Connect with Me
 
 [![LinkedIn](www.linkedin.com/in/yuvraj-pareek-679b20204
+
 [![Email](yuvrajpareek44@gmail.com)
 
 Thanks for visiting my profile!
