@@ -5,7 +5,7 @@ I'm a passionate developer with interests in android development and open-source
 ## About Me
 
 - 🔭 I’m currently working on a project related to the handling the IOT devices.
-- 🌱 I’m currently learning Advance Android Like KMP, CMP.
+- 🌱 I’m currently learning  Flutter, Advance Android Like KMP, CMP.
 - 💬 Ask me about Android Development
 - 📫 How to reach me: www.linkedin.com/in/yuvraj-pareek-679b20204
 - 😄 Pronouns: He/Him
