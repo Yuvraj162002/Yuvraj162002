@@ -12,8 +12,8 @@ I'm a passionate developer with interests in android development and open-source
 - ⚡ Fun fact: Apart from the coding I like to play outdoor games and many more.
 
 ## 🛠 Skills & Technologies
-- **Languages**: koltin, Java, C++
-- **Tools**: Git, App center, Jira
+- **Languages**: koltin, Java, C++, Dart
+- **Tools**: Git, App center, Jira, Trello, Figma, Swagger, Basic applivery.
 
 
 ## Connect with Me
